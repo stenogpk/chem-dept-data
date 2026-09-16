@@ -1,0 +1,21 @@
+{
+  "department": "Department of Chemistry",
+  "study_materials": [
+    {
+      "id": "sm_1",
+      "title": "Coordination Compounds Notes",
+      "topic": "Inorganic Chemistry",
+      "semester": "Semester 3",
+      "url": "PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE"
+    }
+  ],
+  "videos": [
+    {
+      "id": "v_1",
+      "title": "Chemical Kinetics Lecture 01",
+      "lecturer": "Chemistry Faculty",
+      "semester": "Semester 2",
+      "url": "PASTE_YOUR_YOUTUBE_UNLISTED_LINK_HERE"
+    }
+  ]
+}
